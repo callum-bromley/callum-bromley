@@ -28,6 +28,9 @@ It’s productivity with personality — built using modern full-stack tools and
 
 (link coming soon)
 
+## Connect!
+
+[LinkedIn](https://www.linkedin.com/in/callum-bromley-78bab3362/)
 <!--
 **callum-bromley/callum-bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
