@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me!
+
+Kia ora! I’m Callum, a full-stack developer with a unique background in customer service and hands-on roles, now channelling that real-world experience into building thoughtful, user-focused software.
+
+Before moving into tech, I worked across a range of industries - from bartending at student clubs and maintaining attractions at Rainbow’s End, to fundraising for charities and cleaning parks. These experiences taught me the value of teamwork, clear communication, and practical problem-solving - skills I now bring to every development project.
+
+As a developer, I work across both front-end and back-end technologies, specialising in JavaScript, React, HTML/CSS, and database tools like Knex. I’ve built a range of personal and group projects that reflect my passion for responsive, user-friendly design.
+
+I’m committed to continuous learning and always looking for opportunities to grow, contribute to meaningful work, and take on new technical challenges.
+
+
 
 <!--
 **callum-bromley/callum-bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
