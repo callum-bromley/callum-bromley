@@ -9,6 +9,24 @@ As a developer, I work across both front-end and back-end technologies, speciali
 I’m committed to continuous learning and always looking for opportunities to grow, contribute to meaningful work, and take on new technical challenges.
 
 
+## Projects:
+
+# Business Website:
+
+With having a family member with an up and coming business, I found it as an opportunity to not only help him out but use it for me to enhance on my skills. 
+
+Although this website may come across as a more simpler project, it really gave me time to home in on React and Typescript frameworks. 
+
+(link coming soon) 
+
+
+# Motivating Mike:
+
+Motivating Mike is a to-do list app with attitude. Add tasks, choose a severity level (1–3), and pick one of three characters to encourage you — whether that’s a gentle nudge or a full-on heckle. The higher the severity, the more urgent (and intense) the motivation. Level 3 tasks always come first, so no more dodging the big stuff!
+
+It’s productivity with personality — built using modern full-stack tools and a focus on fun, user-first interaction.
+
+(link coming soon)
 
 <!--
 **callum-bromley/callum-bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
