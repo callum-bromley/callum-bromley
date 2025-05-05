@@ -31,6 +31,8 @@ It’s productivity with personality — built using modern full-stack tools and
 ## Connect!
 
 [LinkedIn](https://www.linkedin.com/in/callum-bromley-78bab3362/)
+
+[Download my CV!](https://github.com/callum-bromley/callum-bromley/blob/main/Callum%20Bromley%20-%20CV.pdf)
 <!--
 **callum-bromley/callum-bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
