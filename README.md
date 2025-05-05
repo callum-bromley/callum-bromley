@@ -1,4 +1,4 @@
-## About me!
+# About me!
 
 Kia ora! I’m Callum, a full-stack developer with a unique background in customer service and hands-on roles, now channelling that real-world experience into building thoughtful, user-focused software.
 
@@ -9,9 +9,9 @@ As a developer, I work across both front-end and back-end technologies, speciali
 I’m committed to continuous learning and always looking for opportunities to grow, contribute to meaningful work, and take on new technical challenges.
 
 
-## Projects:
+# Projects:
 
-# Business Website:
+## Business Website:
 
 With having a family member with an up and coming business, I found it as an opportunity to not only help him out but use it for me to enhance on my skills. 
 
@@ -20,7 +20,7 @@ Although this website may come across as a more simpler project, it really gave 
 (link coming soon) 
 
 
-# Motivating Mike:
+## Motivating Mike:
 
 Motivating Mike is a to-do list app with attitude. Add tasks, choose a severity level (1–3), and pick one of three characters to encourage you — whether that’s a gentle nudge or a full-on heckle. The higher the severity, the more urgent (and intense) the motivation. Level 3 tasks always come first, so no more dodging the big stuff!
 
