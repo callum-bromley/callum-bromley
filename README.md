@@ -26,7 +26,7 @@ Motivating Mike is a to-do list app with attitude. Add tasks, choose a severity 
 
 It’s productivity with personality — built using modern full-stack tools and a focus on fun, user-first interaction.
 
-[Motivating Mike GitHub](https://github.com/callum-bromley/motivating-mike) / [Motivating Mike Website]()
+[Motivating Mike GitHub](https://github.com/callum-bromley/motivating-mike) / [Motivating Mike Website](https://motivating-mike.onrender.com/)
 
 ## Connect!
 
